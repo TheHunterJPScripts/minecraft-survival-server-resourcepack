@@ -293,3 +293,27 @@ alt="Foresight" height="180px">
 
 </tr>
 </table>
+
+---
+## Renamable textures
+
+**Books to Letters:**
+
+This texture pack adds texture variations for books (both signed and writable).
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/books-to-letters/)
+
+<table width="100%">
+<tr>
+<td>
+  <img src="https://i.gyazo.com/f4b6f9a0b046f16ccde376dba44c8718.png"
+alt="Foresight" height="64px" align="center">
+  
+  <p>
+    "Alarm Letter"
+  </p>
+
+
+</td>
+</tr>
+</table>
