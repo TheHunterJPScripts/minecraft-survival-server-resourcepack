@@ -50,7 +50,7 @@ alt="Foresight" width="180px%" align="right">
 <table width="100%">
 <tr>
 <td align="center" width="33%">
-  <img src="https://i.gyazo.com/94a0fff5d491acbc64d685e2204114fc.png"   alt="Foresight" width="180px%">
+  <img src="https://i.gyazo.com/94a0fff5d491acbc64d685e2204114fc.png"   alt="Foresight" width="180px">
   
 <h3>Xeadas' Glass-Bottom Boats</h3> 
   <p width="60%;">
