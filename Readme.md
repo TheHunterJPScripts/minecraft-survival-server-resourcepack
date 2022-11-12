@@ -246,7 +246,7 @@ alt="Foresight" height="180px">
   
 <h3>T.E.A.V.S.R.P.</h3> 
   <p width="60%;">
-    Changes sound to the villagers.
+    Changes sound to the villagers.<br><br>
   </p>
 
 [Get the Original](https://www.youtube.com/watch?v=yG_Y52bK6Ec)
