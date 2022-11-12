@@ -44,4 +44,24 @@ alt="Foresight" width="180px%" align="right">
 </tr>
 </table>
 
----
+<br/>
+
+**Changed Textures:**
+
+<table width="100%">
+<tr>
+<td>
+  <a href="https://www.runforesight.com/?utm_source=github-profile-summary-cards&utm_medium=sponsorship">
+  <img src="https://i.gyazo.com/d7e5d5a29bb863f020a07dda9c3bfbb8.png"
+alt="Foresight" width="180px%" align="right">
+  </a>
+  
+<h3>Fresh Animations</h3> 
+  <p width="60%;">
+    Fresh Animations is a work in progress resource pack that gives an animation overhaul to the creatures in the default look of Minecraft. The aim is to make the  mobs more dynamic and believable.
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)
+</td>
+</tr>
+</table>
