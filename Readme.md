@@ -214,15 +214,27 @@ alt="Foresight" height="180px">
 </td>
 
 <td align="center" width="33%">
-  <img src="https://i.gyazo.com/44f6be2f752306a8e7c0d714a929aa8e.png"
+  <img src="https://i.gyazo.com/306642de8588bb3037b4dbe68fb567cd.png"
 alt="Foresight" height="180px">
   
-<h3>Astraliyte's Enchanted Books</h3> 
+<h3>Xali's Enchanted Books</h3> 
   <p width="60%;">
-    Custom texture to diferen enchantment books.
+    Gives every enchanted book a different texture base on their type and their level
   </p>
 
-[Get the Original](https://www.planetminecraft.com/texture-pack/astraliyte-s-enchanted-books/)
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books)
+</td>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/3d23c129f8ced21f88fa4d7ef8ed78c4.png"
+alt="Foresight" height="180px">
+  
+<h3>Magic Bookshelves</h3> 
+  <p width="60%;">
+    Added 48 variants for the bookshelf.
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/magic-bookshelves)
 </td>
 </tr>
 </table>
