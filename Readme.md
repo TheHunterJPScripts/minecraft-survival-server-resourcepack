@@ -194,7 +194,7 @@ alt="Foresight" height="180px">
     The texture for the bottle is now animated, so you can see the experience orbs that are crammed inside.
   </p>
 
-[Get the Original](https://www.curseforge.com/minecraft/texture-packs/fire-improvement)
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/improved-bottles-o-enchanting-texture-bottle-form)
 </td>
 </tr>
 
@@ -209,6 +209,20 @@ alt="Foresight" height="180px">
   </p>
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books)
+</td>
+</tr>
+<tr>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/44f6be2f752306a8e7c0d714a929aa8e.png"
+alt="Foresight" height="180px">
+  
+<h3>Astraliyte's Enchanted Books</h3> 
+  <p width="60%;">
+    Custom texture to diferen enchantment books.
+  </p>
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/astraliyte-s-enchanted-books/)
 </td>
 </tr>
 </table>
