@@ -49,8 +49,8 @@ alt="Foresight" width="180px%" align="right">
 
 <table width="100%">
 <tr>
-<td align="center">
-  <img src="https://i.gyazo.com/3620c2fff44a81c438e8d891e08a1a05.png"
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/94a0fff5d491acbc64d685e2204114fc.png"
 alt="Foresight" width="180px%">
   </a>
   
@@ -61,7 +61,7 @@ alt="Foresight" width="180px%">
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/xeadas-glass-bottom-boats/)
 </td>
-<td align="center">
+<td align="center" width="33%">
   <img src="https://i.gyazo.com/0dad27653664e3067ef9243993e64833.jpg"
 alt="Foresight" width="180px">
   </a>
@@ -73,7 +73,7 @@ alt="Foresight" width="180px">
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/better-crops-3d/)
 </td>
-<td align="center">
+<td align="center" width="33%">
   <img src="https://i.gyazo.com/64283ed7f4175bcc609b8e933461ab94.png"
 alt="Foresight" width="180px%">
   </a>
