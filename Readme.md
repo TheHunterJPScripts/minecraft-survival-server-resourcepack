@@ -206,7 +206,7 @@ alt="Foresight" height="180px">
   
 <h3>Astraliyte's Enchanted Books</h3> 
   <p width="60%;">
-    Slightly retextured some books.
+    Custom texture to diferen enchantment books.
   </p>
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/astraliyte-s-enchanted-books/)
