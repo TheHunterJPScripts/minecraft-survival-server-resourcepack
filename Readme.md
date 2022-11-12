@@ -196,6 +196,19 @@ alt="Foresight" height="180px">
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/fire-improvement)
 </td>
+</tr>
 
+<tr>
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/306642de8588bb3037b4dbe68fb567cd.png"
+alt="Foresight" height="180px">
+  
+<h3>Xali's Enchanted Books</h3> 
+  <p width="60%;">
+    Gives every enchanted book a different texture base on their type and their level.
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books)
+</td>
 </tr>
 </table>
