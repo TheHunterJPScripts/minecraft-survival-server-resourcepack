@@ -437,6 +437,14 @@ alt="Foresight" height="64px" align="center">
     "Trident Letter"
   </p>
 </td>
+  
+<td align="center">
+  <img src="https://i.gyazo.com/1f4399e58da742639100332c766736d1.png"
+alt="Foresight" height="64px" align="center">
+  <p align="center">
+    "Blank Letter"
+  </p>
+</td>
 
 </tr>
 </table>
