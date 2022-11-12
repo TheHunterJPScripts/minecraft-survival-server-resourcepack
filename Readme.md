@@ -200,6 +200,19 @@ alt="Foresight" height="180px">
 </tr>
 
 <tr>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/7bb34d3fafc2e700ee488b25b594abdc.png"
+alt="Foresight" height="180px">
+  
+<h3>Xali's Potions</h3> 
+  <p width="60%;">
+    Different texture to every potion to make them easier to distinguish.
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/xalis-potions)
+</td>
+
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/44f6be2f752306a8e7c0d714a929aa8e.png"
 alt="Foresight" height="180px">
