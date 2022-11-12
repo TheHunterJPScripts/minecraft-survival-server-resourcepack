@@ -122,4 +122,18 @@ alt="Foresight" width="180px">
 [Get the Original](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required/)
 </td>
 </tr>
+
+<tr>
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/1dd7170582ee4834299b550653e7f168.png"
+alt="Foresight" width="180px">
+  
+<h3>Armorstands Reimagined</h3> 
+  <p width="60%;">
+    This pack simply makes armorstands look a lot more like something capable of wearing heavy metal armor!
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/armorstands-reimagined)
+</td>
+</tr>
 </table>
