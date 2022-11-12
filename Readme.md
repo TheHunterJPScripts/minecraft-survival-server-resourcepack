@@ -125,7 +125,7 @@ alt="Foresight" height="180px">
 <tr>
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/1dd7170582ee4834299b550653e7f168.png"
-alt="Foresight" width="180px">
+alt="Foresight" height="180px">
   
 <h3>Armorstands Reimagined</h3> 
   <p width="60%;">
@@ -137,7 +137,7 @@ alt="Foresight" width="180px">
 
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/08adb34db1ed81df7fb065db563dbaa0.png"
-alt="Foresight" width="180px">
+alt="Foresight" height="180px">
   
 <h3>Armorstands Reimagined</h3> 
   <p width="60%;">
@@ -149,7 +149,7 @@ alt="Foresight" width="180px">
 
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/998202b0239e67be23f97a525a3aaf77.png"
-alt="Foresight" width="180px">
+alt="Foresight" height="180px">
   
 <h3>Armorstands Reimagined</h3> 
   <p width="60%;">
@@ -163,7 +163,7 @@ alt="Foresight" width="180px">
 <tr>
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/de4b8a8a3f1f44ca2c7dc46913391815.png"
-alt="Foresight" width="180px">
+alt="Foresight" height="180px">
   
 <h3>Sconces</h3> 
   <p width="60%;">
@@ -175,7 +175,7 @@ alt="Foresight" width="180px">
 
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/dc21ef1b342eed600fed488a4431021d.png"
-alt="Foresight" width="180px">
+alt="Foresight" height="180px">
   
 <h3>Fire Improvement</h3> 
   <p width="60%;">
@@ -184,5 +184,18 @@ alt="Foresight" width="180px">
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/fire-improvement)
 </td>
+
+<td align="center" width="33%">
+  <img src="https://media.forgecdn.net/avatars/thumbnails/414/390/64/64/637636380391975102.png"
+alt="Foresight" height="180px">
+  
+<h3>Improved Bottles O' Enchanting Texture</h3> 
+  <p width="60%;">
+    The texture for the bottle is now animated, so you can see the experience orbs that are crammed inside.
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/fire-improvement)
+</td>
+
 </tr>
 </table>
