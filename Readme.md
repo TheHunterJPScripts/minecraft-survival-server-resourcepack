@@ -275,5 +275,17 @@ alt="Foresight" height="180px">
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/more-villagers-rp/)
 </td>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/97a0eedf771b51bf5b355a3ffdc10884.png"
+alt="Foresight" height="180px">
+  
+<h3>Random Skeletons</h3> 
+  <p width="60%;">
+     Adds a bit of variety to the game by adding random skins for skeletons.
+  </p>
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/random-skeletons/)
+</td>
 </tr>
 </table>
