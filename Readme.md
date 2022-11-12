@@ -50,9 +50,7 @@ alt="Foresight" width="180px%" align="right">
 <table width="100%">
 <tr>
 <td align="center" width="33%">
-  <img src="https://i.gyazo.com/94a0fff5d491acbc64d685e2204114fc.png"
-alt="Foresight" width="180px%">
-  </a>
+  <img src="https://i.gyazo.com/94a0fff5d491acbc64d685e2204114fc.png"   alt="Foresight" width="180px%">
   
 <h3>Xeadas' Glass-Bottom Boats</h3> 
   <p width="60%;">
@@ -61,10 +59,10 @@ alt="Foresight" width="180px%">
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/xeadas-glass-bottom-boats/)
 </td>
+
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/0dad27653664e3067ef9243993e64833.jpg"
 alt="Foresight" width="180px">
-  </a>
   
 <h3>Better Copss 3D</h3> 
   <p width="60%;">
@@ -73,17 +71,30 @@ alt="Foresight" width="180px">
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/better-crops-3d/)
 </td>
+
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/64283ed7f4175bcc609b8e933461ab94.png"
 alt="Foresight" width="180px%">
-  </a>
   
 <h3>Crops 3D</h3> 
   <p width="60%;">
-    Used the potatom beetroot, carrot, berrie bush and sugar cane from this resource pack.
+    Used the potato, beetroot, carrot, berrie bush and sugar cane from this resource pack.
   </p>
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/crops-3d)
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/936ff3384e486dac7c83ca8157cf5e35.png"
+alt="Foresight" width="180px%">
+  
+<h3>Better Horse's Pouch</h3> 
+  <p width="60%;">
+    Added the texture for the pouch from this texture pack.
+  </p>
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/better-horse-s-ass-pouch/)
 </td>
 </tr>
 </table>
