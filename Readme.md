@@ -308,12 +308,127 @@ This texture pack adds texture variations for books (both signed and writable).
 <td>
   <img src="https://i.gyazo.com/f4b6f9a0b046f16ccde376dba44c8718.png"
 alt="Foresight" height="64px" align="center">
-  
   <p>
     "Alarm Letter"
   </p>
-
-
 </td>
+
+<td>
+  <img src="https://i.gyazo.com/db115cdb707d60ecb49b3e87b879da06.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Bloody Letter"
+  </p>
+</td>
+
+<td>
+  <img src="https://i.gyazo.com/cf171ab9270d8c5a4128d37c78937730.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Frog Letter"
+  </p>
+</td>
+
+<td>
+  <img src="https://i.gyazo.com/6a05cf5afa6543fe2b1f605c4f668579.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Ghost Letter"
+  </p>
+</td>
+
+<td>
+  <img src="https://i.gyazo.com/02a2ec6cc84cdb08e76f97890cae569c.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Love Letter"
+  </p>
+</td>
+
+<td>
+  <img src="https://i.gyazo.com/431e427cbc2866b0f936ff8f7c035aba.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Cash Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/a203b59608fb526affab6056bb986ac2.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Modern Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/ef29d2ed288cdf8f71ed96ab3b85d052.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Clover Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/17b277e9589b99c7856a9bd13734f896.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Death Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/f9c4a226f28467646ba1aaad89b0452e.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Old Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/e184c91acf10a1e5eb3d5e294500293e.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Earth Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/589d6ad12b1c40146076a7b51ac0bba7.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Pumpkin Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/93f7dde3b5def81ed9e81a1ad3d3d9e6.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Ender Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/283ef03cc97a982780e9421996ce9ef8.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Rainbow Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/1d92b17b04d44763288999fb7c76c657.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Flag Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/f28e50b35c8fe4ad106e40c3c024f1fe.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Fox Letter"
+  </p>
+</td>
+<td>
+  <img src="https://i.gyazo.com/57e862f6263b9d69455b2176efd98548.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    "Trident Letter"
+  </p>
+</td>
+
 </tr>
 </table>
