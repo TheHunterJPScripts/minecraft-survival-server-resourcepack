@@ -139,9 +139,9 @@ alt="Foresight" height="180px">
   <img src="https://i.gyazo.com/08adb34db1ed81df7fb065db563dbaa0.png"
 alt="Foresight" height="180px">
   
-<h3>Rail Fix</h3> 
+<h3>Armorstands Reimagined</h3> 
   <p width="60%;">
-    This fixes the issue where the rail appears stretched or distorted.<br><br>
+    This fixes the issue where the rail appears stretched or distorted.<br><br><br>
   </p>
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/rail-fix)
@@ -151,9 +151,9 @@ alt="Foresight" height="180px">
   <img src="https://i.gyazo.com/998202b0239e67be23f97a525a3aaf77.png"
 alt="Foresight" height="180px">
   
-<h3>Updated Minecarts</h3> 
+<h3>Armorstands Reimagined</h3> 
   <p width="60%;">
-    An updated minecart to replace the old boring one!<br><br>
+    An updated minecart to replace the old boring one!<br><br><br>
   </p>
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/updated-minecarts/)
@@ -165,9 +165,9 @@ alt="Foresight" height="180px">
   <img src="https://i.gyazo.com/de4b8a8a3f1f44ca2c7dc46913391815.png"
 alt="Foresight" height="180px">
   
-<h3>Sconces<br><br></h3> 
+<h3>Sconces</h3> 
   <p width="60%;">
-    Makes torches and soul torches look like sconces from Supplementaries mod.<br><br>
+    Makes torches and soul torches look like sconces from Supplementaries mod.
   </p>
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/sconces)
@@ -177,16 +177,16 @@ alt="Foresight" height="180px">
   <img src="https://i.gyazo.com/dc21ef1b342eed600fed488a4431021d.png"
 alt="Foresight" height="180px">
   
-<h3>Fire Improvement<br><br></h3> 
+<h3>Fire Improvement</h3> 
   <p width="60%;">
-    This will make your view is much clear as you can see in the resource pack images.<br><br>
+    This will make your view is much clear as you can see in the resource pack images.
   </p>
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/fire-improvement)
 </td>
 
 <td align="center" width="33%">
-  <img src="https://i.postimg.cc/ryWfLLhg/experience-bottle-big2.gif"
+  <img src="https://i.gyazo.com/ed1632adcf7fc068f8ba581567e45e24.png"
 alt="Foresight" height="180px">
   
 <h3>Improved Bottles O' Enchanting Texture</h3> 
