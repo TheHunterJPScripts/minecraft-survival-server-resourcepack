@@ -29,7 +29,6 @@ This is a resource pack targeted to improve the experience of my personal vanill
 <table width="100%">
 <tr>
 <td>
-  <a href="https://www.runforesight.com/?utm_source=github-profile-summary-cards&utm_medium=sponsorship">
   <img src="https://i.gyazo.com/d7e5d5a29bb863f020a07dda9c3bfbb8.png"
 alt="Foresight" width="180px%" align="right">
   </a>
@@ -51,7 +50,6 @@ alt="Foresight" width="180px%" align="right">
 <table width="100%">
 <tr>
 <td align="center">
-  <a href="https://www.runforesight.com/?utm_source=github-profile-summary-cards&utm_medium=sponsorship">
   <img src="https://i.gyazo.com/3620c2fff44a81c438e8d891e08a1a05.png"
 alt="Foresight" width="180px%">
   </a>
@@ -62,6 +60,30 @@ alt="Foresight" width="180px%">
   </p>
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/xeadas-glass-bottom-boats/)
+</td>
+<td align="center">
+  <img src="https://i.gyazo.com/0dad27653664e3067ef9243993e64833.jpg"
+alt="Foresight" width="180px">
+  </a>
+  
+<h3>Better Copss 3D</h3> 
+  <p width="60%;">
+    Used the pumpkin, melon and wheat textures from this pack.
+  </p>
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/better-crops-3d/)
+</td>
+<td align="center">
+  <img src="https://i.gyazo.com/64283ed7f4175bcc609b8e933461ab94.png"
+alt="Foresight" width="180px%">
+  </a>
+  
+<h3>Crops 3D</h3> 
+  <p width="60%;">
+    Used the potatom beetroot, carrot, berrie bush and sugar cane from this resource pack.
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/crops-3d)
 </td>
 </tr>
 </table>
