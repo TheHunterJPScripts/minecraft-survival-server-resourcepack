@@ -263,5 +263,17 @@ alt="Foresight" height="180px">
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/decoration-go-better-decoration/)
 </td>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/1bd725dc3b1420c55b24a3fe9486e141.png"
+alt="Foresight" height="180px">
+  
+<h3>More villagers RP</h3> 
+  <p width="60%;">
+    This resource pack will change the villagers.
+  </p>
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/more-villagers-rp/)
+</td>
 </tr>
 </table>
