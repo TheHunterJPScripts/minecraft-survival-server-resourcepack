@@ -251,5 +251,17 @@ alt="Foresight" height="180px">
 
 [Get the Original](https://www.youtube.com/watch?v=yG_Y52bK6Ec)
 </td>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/9ee7eb7551b52c7f35e93e68036c95ed.png"
+alt="Foresight" height="180px">
+  
+<h3>Decoration Go+</h3> 
+  <p width="60%;">
+    Added the shanged size button and the pot.
+  </p>
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/decoration-go-better-decoration/)
+</td>
 </tr>
 </table>
