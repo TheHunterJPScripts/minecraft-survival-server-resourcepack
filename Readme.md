@@ -141,7 +141,7 @@ alt="Foresight" width="180px">
   
 <h3>Armorstands Reimagined</h3> 
   <p width="60%;">
-    This fixes the issue where the rail appears stretched or distorted.
+    This fixes the issue where the rail appears stretched or distorted.<br><br><br>
   </p>
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/rail-fix)
