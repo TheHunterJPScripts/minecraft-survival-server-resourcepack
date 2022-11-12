@@ -174,15 +174,15 @@ alt="Foresight" width="180px">
 </td>
 
 <td align="center" width="33%">
-  <img src="https://i.gyazo.com/fa5364138853c76354242685b8ef2ea8.png"
+  <img src="https://i.gyazo.com/dc21ef1b342eed600fed488a4431021d.png"
 alt="Foresight" width="180px">
   
-<h3>Sconces</h3> 
+<h3>Fire Improvement</h3> 
   <p width="60%;">
-    Simply modifies the smoker and the furnace to have a much nicer and smoother animation.
+    This will make your view is much clear as you can see in the resource pack images.
   </p>
 
-[Get the Original](https://www.curseforge.com/minecraft/texture-packs/furnaces-reimagined/download/3459271)
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/fire-improvement)
 </td>
 </tr>
 </table>
