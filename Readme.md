@@ -26,23 +26,13 @@ This is a resource pack targeted to improve the experience of my personal vanill
 
 Animations:
 
-<div class="box red" style="border-color:white;border:1rem;">
-      <h2 style="color:hsl(229, 6%, 66%);">Team Builder</h2>
-      <p style="color:hsl(229, 6%, 66%);">Scans our talent network to create the optimal team for your project</p>
-      <img src="https://assets.codepen.io/2301174/icon-team-builder.svg" alt="">
-    </div>
-
-## Sponsors 
-
----
-
 <table width="100%">
 <tr>
 <td>
   <img width="100%" height="0">
   <a href="https://www.runforesight.com/?utm_source=github-profile-summary-cards&utm_medium=sponsorship">
   <img src="https://i.gyazo.com/d7e5d5a29bb863f020a07dda9c3bfbb8.png"
-alt="Foresight" width="40%" align="right">
+alt="Foresight" width="20%" align="right">
   </a>
   
 <h3>Fresh Animations</h3> 
