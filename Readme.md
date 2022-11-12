@@ -159,4 +159,18 @@ alt="Foresight" width="180px">
 [Get the Original](https://www.planetminecraft.com/texture-pack/updated-minecarts/)
 </td>
 </tr>
+
+<tr>
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/de4b8a8a3f1f44ca2c7dc46913391815.png"
+alt="Foresight" width="180px">
+  
+<h3>Sconces</h3> 
+  <p width="60%;">
+    Makes torches and soul torches look like sconces from Supplementaries mod.
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/sconces)
+</td>
+</tr>
 </table>
