@@ -52,16 +52,16 @@ alt="Foresight" width="180px%" align="right">
 <tr>
 <td>
   <a href="https://www.runforesight.com/?utm_source=github-profile-summary-cards&utm_medium=sponsorship">
-  <img src="https://i.gyazo.com/d7e5d5a29bb863f020a07dda9c3bfbb8.png"
+  <img src="https://i.gyazo.com/3620c2fff44a81c438e8d891e08a1a05.png"
 alt="Foresight" width="180px%" align="right">
   </a>
   
-<h3>Fresh Animations</h3> 
+<h3>Xeadas' Glass-Bottom Boats</h3> 
   <p width="60%;">
-    Fresh Animations is a work in progress resource pack that gives an animation overhaul to the creatures in the default look of Minecraft. The aim is to make the  mobs more dynamic and believable.
+    Simply changes each boats' texture to have a transparent bottom.
   </p>
 
-[Get the Original](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)
+[Get the Original](https://www.planetminecraft.com/texture-pack/xeadas-glass-bottom-boats/)
 </td>
 </tr>
 </table>
