@@ -30,7 +30,7 @@ This is a resource pack targeted to improve the experience of my personal vanill
 <tr>
 <td>
   <img src="https://i.gyazo.com/d7e5d5a29bb863f020a07dda9c3bfbb8.png"
-alt="Foresight" width="180px" align="right">
+alt="Foresight" width="180px%" align="right">
   </a>
   
 <h3>Fresh Animations</h3> 
@@ -74,7 +74,7 @@ alt="Foresight" width="180px">
 
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/64283ed7f4175bcc609b8e933461ab94.png"
-alt="Foresight" width="180px">
+alt="Foresight" width="180px%">
   
 <h3>Crops 3D</h3> 
   <p width="60%;">
@@ -89,12 +89,24 @@ alt="Foresight" width="180px">
   <img src="https://i.gyazo.com/936ff3384e486dac7c83ca8157cf5e35.png"
 alt="Foresight" width="180px">
   
+<h3>Better Banners</h3> 
+  <p width="60%;">
+    This resource pack changes or in some way improves all the familiar flags to more realistic and textured. Works on banners and shields.
+  </p>
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/better-horse-s-ass-pouch/)
+</td>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/70c8c689ebec8248b90c59243bbec496.png"
+alt="Foresight" width="180px">
+  
 <h3>Better Horse's Pouch</h3> 
   <p width="60%;">
     Added the texture for the pouch from this texture pack.
   </p>
 
-[Get the Original](https://www.planetminecraft.com/texture-pack/better-horse-s-ass-pouch/)
+[Get the Original](https://www.planetminecraft.com/texture-pack/better-banner/)
 </td>
 </tr>
 </table>
