@@ -30,8 +30,7 @@ This is a resource pack targeted to improve the experience of my personal vanill
 <tr>
 <td>
   <img src="https://i.gyazo.com/d7e5d5a29bb863f020a07dda9c3bfbb8.png"
-alt="Foresight" width="180px%" align="right">
-  </a>
+alt="Foresight" height="180px" align="right">
   
 <h3>Fresh Animations</h3> 
   <p width="60%;">
@@ -50,11 +49,11 @@ alt="Foresight" width="180px%" align="right">
 <table width="100%">
 <tr>
 <td align="center" width="33%">
-  <img src="https://i.gyazo.com/94a0fff5d491acbc64d685e2204114fc.png"   alt="Foresight" width="180px">
+  <img src="https://i.gyazo.com/94a0fff5d491acbc64d685e2204114fc.png"   alt="Foresight" height="180px">
   
 <h3>Xeadas' Glass-Bottom Boats</h3> 
   <p width="60%;">
-    Simply changes each boats' texture to have a transparent bottom.
+    Simply changes each boats' texture to have a transparent bottom.<br><br>
   </p>
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/xeadas-glass-bottom-boats/)
@@ -62,11 +61,11 @@ alt="Foresight" width="180px%" align="right">
 
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/0dad27653664e3067ef9243993e64833.jpg"
-alt="Foresight" width="180px">
+alt="Foresight" height="180px">
   
 <h3>Better Copss 3D</h3> 
   <p width="60%;">
-    Used the pumpkin, melon and wheat textures from this pack.
+    Used the pumpkin, melon and wheat textures from this pack.<br><br>
   </p>
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/better-crops-3d/)
@@ -74,7 +73,7 @@ alt="Foresight" width="180px">
 
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/64283ed7f4175bcc609b8e933461ab94.png"
-alt="Foresight" width="180px%">
+alt="Foresight" height="180px%">
   
 <h3>Crops 3D</h3> 
   <p width="60%;">
@@ -87,8 +86,8 @@ alt="Foresight" width="180px%">
 
 <tr>
 <td align="center" width="33%">
-  <img src="https://i.gyazo.com/936ff3384e486dac7c83ca8157cf5e35.png"
-alt="Foresight" width="180px">
+  <img src="https://i.gyazo.com/70c8c689ebec8248b90c59243bbec496.png"
+alt="Foresight" height="180px">
   
 <h3>Better Banners</h3> 
   <p width="60%;">
@@ -99,12 +98,12 @@ alt="Foresight" width="180px">
 </td>
 
 <td align="center" width="33%">
-  <img src="https://i.gyazo.com/70c8c689ebec8248b90c59243bbec496.png"
-alt="Foresight" width="180px">
+  <img src="https://i.gyazo.com/936ff3384e486dac7c83ca8157cf5e35.png"
+alt="Foresight" height="180px">
   
 <h3>Better Horse's Pouch</h3> 
   <p width="60%;">
-    Added the texture for the pouch from this texture pack.
+    Added the texture for the pouch from this texture pack.<br><br><br>
   </p>
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/better-banner/)
@@ -112,11 +111,11 @@ alt="Foresight" width="180px">
 
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/8b1ee4c485f1274a7737db395cd7bee6.png"
-alt="Foresight" width="180px">
+alt="Foresight" height="180px">
   
 <h3>Better Horse's Pouch</h3> 
   <p width="60%;">
-    This pack adds unique texture for every goat horn variation.
+    This pack adds unique texture for every goat horn variation.<br><br><br>
   </p>
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required/)
