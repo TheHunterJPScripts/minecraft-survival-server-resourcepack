@@ -24,15 +24,14 @@ This is a resource pack targeted to improve the experience of my personal vanill
 ---
 ## Gallery
 
-Animations:
+**Animations:**
 
 <table width="100%">
 <tr>
 <td>
-  <img width="100%" height="0">
   <a href="https://www.runforesight.com/?utm_source=github-profile-summary-cards&utm_medium=sponsorship">
   <img src="https://i.gyazo.com/d7e5d5a29bb863f020a07dda9c3bfbb8.png"
-alt="Foresight" width="20%" align="right">
+alt="Foresight" width="180px%" align="right">
   </a>
   
 <h3>Fresh Animations</h3> 
