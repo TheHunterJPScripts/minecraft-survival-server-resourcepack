@@ -186,7 +186,7 @@ alt="Foresight" height="180px">
 </td>
 
 <td align="center" width="33%">
-  <img src="https://media.forgecdn.net/avatars/thumbnails/414/390/64/64/637636380391975102.png"
+  <img src="https://i.gyazo.com/ed1632adcf7fc068f8ba581567e45e24.png"
 alt="Foresight" height="180px">
   
 <h3>Improved Bottles O' Enchanting Texture</h3> 
