@@ -253,18 +253,6 @@ alt="Foresight" height="180px">
 </td>
 
 <td align="center" width="33%">
-  <img src="https://i.gyazo.com/9ee7eb7551b52c7f35e93e68036c95ed.png"
-alt="Foresight" height="180px">
-  
-<h3>Decoration Go+</h3> 
-  <p width="60%;">
-    Added the shanged size button and the pot.
-  </p>
-
-[Get the Original](https://www.planetminecraft.com/texture-pack/decoration-go-better-decoration/)
-</td>
-
-<td align="center" width="33%">
   <img src="https://i.gyazo.com/1bd725dc3b1420c55b24a3fe9486e141.png"
 alt="Foresight" height="180px">
   
@@ -287,5 +275,21 @@ alt="Foresight" height="180px">
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/random-skeletons/)
 </td>
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/2fce6ae63b3caaa3579db75f20582d5c.png"
+alt="Foresight" height="180px">
+  
+<h3>Tissou's Zombie Pack</h3> 
+  <p width="60%;">
+      More than 1000 different textures to the zombie.
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19)
+</td>
+
 </tr>
 </table>
