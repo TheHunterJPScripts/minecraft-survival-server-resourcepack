@@ -134,5 +134,17 @@ alt="Foresight" width="180px">
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/armorstands-reimagined)
 </td>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/08adb34db1ed81df7fb065db563dbaa0.png"
+alt="Foresight" width="180px">
+  
+<h3>Armorstands Reimagined</h3> 
+  <p width="60%;">
+    This fixes the issue where the rail appears stretched or distorted.
+  </p>
+
+[Get the Original](https://www.curseforge.com/minecraft/texture-packs/rail-fix)
+</td>
 </tr>
 </table>
