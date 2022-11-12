@@ -236,5 +236,20 @@ alt="Foresight" height="180px">
 
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/magic-bookshelves)
 </td>
+
+</tr>
+<tr>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/d095e0c1539f14a3a1703ff8fa1510ab.png"
+alt="Foresight" height="180px">
+  
+<h3>T.E.A.V.S.R.P.</h3> 
+  <p width="60%;">
+    Changes sound to the villagers.
+  </p>
+
+[Get the Original](https://www.youtube.com/watch?v=yG_Y52bK6Ec)
+</td>
 </tr>
 </table>
