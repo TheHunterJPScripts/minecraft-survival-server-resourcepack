@@ -198,4 +198,18 @@ alt="Foresight" height="180px">
 </td>
 
 </tr>
+
+<tr>
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/44f6be2f752306a8e7c0d714a929aa8e.png"
+alt="Foresight" height="180px">
+  
+<h3>Astraliyte's Enchanted Books</h3> 
+  <p width="60%;">
+    Custom texture to diferen enchantment books.
+  </p>
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/astraliyte-s-enchanted-books/)
+</td>
+</tr>
 </table>
