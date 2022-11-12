@@ -84,6 +84,7 @@ alt="Foresight" width="180px%">
 [Get the Original](https://www.curseforge.com/minecraft/texture-packs/crops-3d)
 </td>
 </tr>
+
 <tr>
 <td align="center" width="33%">
   <img src="https://i.gyazo.com/936ff3384e486dac7c83ca8157cf5e35.png"
@@ -107,6 +108,18 @@ alt="Foresight" width="180px">
   </p>
 
 [Get the Original](https://www.planetminecraft.com/texture-pack/better-banner/)
+</td>
+
+<td align="center" width="33%">
+  <img src="https://i.gyazo.com/8b1ee4c485f1274a7737db395cd7bee6.png"
+alt="Foresight" width="180px">
+  
+<h3>Better Horse's Pouch</h3> 
+  <p width="60%;">
+    This pack adds unique texture for every goat horn variation.
+  </p>
+
+[Get the Original](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required/)
 </td>
 </tr>
 </table>
