@@ -50,10 +50,10 @@ alt="Foresight" width="180px%" align="right">
 
 <table width="100%">
 <tr>
-<td>
+<td align="center">
   <a href="https://www.runforesight.com/?utm_source=github-profile-summary-cards&utm_medium=sponsorship">
   <img src="https://i.gyazo.com/3620c2fff44a81c438e8d891e08a1a05.png"
-alt="Foresight" width="180px%" align="right">
+alt="Foresight" width="180px%">
   </a>
   
 <h3>Xeadas' Glass-Bottom Boats</h3> 
