@@ -459,31 +459,10 @@ alt="Foresight" height="64px" align="center">
 
 <table width="100%">
 <tr>
-<td>
+<td align="center">
   <img src="https://i.gyazo.com/64d7f9bb7ac9c57287e9025ee489ee94.png"
-alt="Foresight" height="64px" align="center">
-  <p>
-    ID: 1
-  </p>
-
-[Original](https://www.planetminecraft.com/texture-pack/scarecrow-1-18-1-optifine/)
-</td>
-
-
-</tr>
-</table>
-
-
-## Custom textures
-
-**Carved pumpkin:**
-
-<table width="100%">
-<tr>
-<td>
-  <img src="https://i.gyazo.com/64d7f9bb7ac9c57287e9025ee489ee94.png"
-alt="Foresight" height="64px" align="center">
-  <p>
+alt="Foresight" height="128px" align="center">
+  <p align="center">
     ID: 1
   </p>
 
