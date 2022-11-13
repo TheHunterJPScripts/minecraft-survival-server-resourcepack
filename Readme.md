@@ -468,7 +468,135 @@ alt="Foresight" height="128px" align="center">
 
 [Original](https://www.planetminecraft.com/texture-pack/scarecrow-1-18-1-optifine/)
 </td>
+</tr>
+</table>
 
+**Elytra:**
 
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/e7a71c3a5f9cbca37d1a0047d82678af.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/zubneo-sun-monarch-remake-32x-elyta/)
+</td>
+
+<td align="center">
+  <img src="https://i.gyazo.com/c06cfd77681ef26182ece946cffe26e8.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 2
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/)
+</td>
+
+<td align="center">
+  <img src="https://i.gyazo.com/2416acceb011f4916ba8fba5aaf19b72.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 3
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/)
+</td>
+
+<td align="center">
+  <img src="https://i.gyazo.com/94080e7ca1620f9e478a3c6b9ac53573.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 4
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/)
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/1acdebb0eb087af05f0fd3a6c6e942c6.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 5
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/)
+</td>
+
+<td align="center">
+  <img src="https://i.gyazo.com/f8726440f53f3ad546e654cbf9a7a389.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 6
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/)
+</td>
+
+<td align="center">
+  <img src="https://i.gyazo.com/a752a8666f59405c82fc83c3c09bdeae.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 7
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/)
+</td>
+
+<td align="center">
+  <img src="https://i.gyazo.com/9e934046d9711a31b59e41ca7cf54b87.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 8
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/)
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/d3508242c4305cf9a3f3e19c7de83ed8.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 9
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/)
+</td>
+
+<td align="center">
+  <img src="https://i.gyazo.com/a82824d7286357b46753b8be7c97d119.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 10
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/)
+</td>
+
+<td align="center">
+  <img src="https://i.gyazo.com/2dd7565bb826d2fea32e48cd2dba6c4d.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 11
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/barn-owl-wings-elytra/)
+</td>
+
+<td align="center">
+  <img src="https://i.gyazo.com/08e7bab52fe4c71fd00360f1127cf9d0.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 12
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/magex-s-warden-elytra/)
+</td>
 </tr>
 </table>
