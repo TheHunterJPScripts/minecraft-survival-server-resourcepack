@@ -600,3 +600,147 @@ alt="Foresight" height="128px" align="center">
 </td>
 </tr>
 </table>
+
+**Helmet:**
+
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/d5a6a9835e3a16f34420ffaf8279b5e2.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/revamped-netherite-tweaks/)
+</td>
+</tr>
+</table>
+
+**Chestplate:**
+
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/0924218f6908db946b753e816f5d1663.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/revamped-netherite-tweaks/)
+</td>
+</tr>
+</table>
+
+**Pants:**
+
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/408e6e3fae1d577adb79b4922d94f337.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/revamped-netherite-tweaks/)
+</td>
+</tr>
+</table>
+
+**Boots:**
+
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/e9aa9af050ab31a952b2df5864b37f3d.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/revamped-netherite-tweaks/)
+</td>
+</tr>
+</table>
+
+**Sword:**
+
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/0f6371c01690abba0e18dbb3f2d3d7b5.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/revamped-netherite-tweaks/)
+</td>
+</tr>
+</table>
+
+**Axe:**
+
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/cf4027b7e4050665bcbde48372a8d81b.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/revamped-netherite-tweaks/)
+</td>
+</tr>
+</table>
+
+**Pickaxe:**
+
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/e25af7114ecf9c94a2be97c2422664dc.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/revamped-netherite-tweaks/)
+</td>
+</tr>
+</table>
+
+**Shovel:**
+
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/1a70b1a2d5b68a764142eb94be4845fe.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/revamped-netherite-tweaks/)
+</td>
+</tr>
+</table>
+
+**Hoe:**
+
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://i.gyazo.com/58323e9ab34efbbcc7d871783f0523cd.png"
+alt="Foresight" height="128px" align="center">
+  <p align="center">
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/revamped-netherite-tweaks/)
+</td>
+</tr>
+</table>
