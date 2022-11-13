@@ -1,6 +1,6 @@
 # Resource pack
 
-## Mod Requirements
+## Texture pack requirements
 
 <img src="https://img.shields.io/badge/requires-fabric-green" alt="drawing" width="75"/>
 
@@ -13,6 +13,10 @@ To allow compatibility with optifine resource packs this mods are required:
 - [CIT Renewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
 
 - [Entity Texture Feature](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
+
+
+To allow for the custom textures this datapack is also required:
+- [Custom Roleplay Data](https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack)
 
 ---
 ## Why use this resource pack?
@@ -429,6 +433,26 @@ alt="Foresight" height="64px" align="center">
     "Trident Letter"
   </p>
 </td>
+
+</tr>
+</table>
+
+## Custom textures
+
+**Carved pumpkin:**
+
+<table width="100%">
+<tr>
+<td>
+  <img src="https://i.gyazo.com/64d7f9bb7ac9c57287e9025ee489ee94.png"
+alt="Foresight" height="64px" align="center">
+  <p>
+    ID: 1
+  </p>
+
+[Original](https://www.planetminecraft.com/texture-pack/scarecrow-1-18-1-optifine/)
+</td>
+
 
 </tr>
 </table>
