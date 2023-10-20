@@ -1,8 +1,8 @@
+![minecraft](https://img.shields.io/badge/game-minecraft-green) ![fabric version](https://img.shields.io/badge/fabric-1.19.2-yellow)
+
 # Resource pack
 
 ## Texture pack requirements
-
-<img src="https://img.shields.io/badge/requires-fabric-green" alt="drawing" width="75"/>
 
 <br/>
 
